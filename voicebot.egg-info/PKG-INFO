@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: voicebot
+Version: 1.0
+Summary: An AI-powered voice-controlled UI automation bot
+Author: Your Name
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS
+Requires-Dist: speechrecognition
+Requires-Dist: pyautogui
+Requires-Dist: opencv-python
+Requires-Dist: numpy
+Requires-Dist: pytesseract
+Requires-Dist: appscript
+Requires-Dist: easyocr
+Requires-Dist: torch
+Requires-Dist: ultralytics

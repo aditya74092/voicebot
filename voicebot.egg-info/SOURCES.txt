@@ -1,0 +1,11 @@
+README.md
+setup.py
+voicebot/__init__.py
+voicebot/screen_analyzer.py
+voicebot/voice_bot.py
+voicebot.egg-info/PKG-INFO
+voicebot.egg-info/SOURCES.txt
+voicebot.egg-info/dependency_links.txt
+voicebot.egg-info/entry_points.txt
+voicebot.egg-info/requires.txt
+voicebot.egg-info/top_level.txt

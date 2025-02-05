@@ -1,0 +1,10 @@
+speechrecognition
+pyautogui
+opencv-python
+numpy
+pytesseract
+appscript
+easyocr
+torch
+ultralytics
+
