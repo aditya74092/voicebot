@@ -21,7 +21,7 @@ setup(
         ],
     },
 
-    author="Your Name",
+    author="Aditya Chowdhary",
     description="An AI-powered voice-controlled UI automation bot",
     classifiers=[
         "Programming Language :: Python :: 3",
